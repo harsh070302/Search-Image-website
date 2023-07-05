@@ -1,2 +1,2 @@
 # Search-Image-website
-Search for any images
+A responsive web page for image search by fetching images through an API using HTML, CSS, and JavaScript.
